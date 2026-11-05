@@ -1,11 +1,5 @@
-MI PLAN 90 - APP PWA
-1. Sube index.html, manifest.webmanifest, sw.js e icon.svg a la raíz de un repositorio de GitHub.
-2. En Settings > Pages, selecciona Deploy from a branch, main y / (root).
-3. Abre la URL HTTPS de GitHub Pages en Safari (iPhone) o Chrome (Android).
-4. iPhone: Compartir > Añadir a pantalla de inicio. Android: menú > Instalar app.
-5. Marca las actividades y usa Ajustes > Exportar respaldo para guardar tus datos. No existe sincronización entre dispositivos.
-La aplicación funciona sin conexión después de abrirse una vez online y almacenar sus archivos.
-
-Actualización: colores alegres, frase motivacional diaria (90 días), meditación con casilla y minutos, estadísticas de meditación.
-
-ACTUALIZACIÓN: Bicicleta fija 30 minutos de lunes a viernes; sábados y domingos sin bicicleta. Se aplica por fecha real del calendario durante los 90 días.
+MI PLAN 90 - VERSIÓN CORREGIDA
+Subir index.html, manifest.webmanifest, sw.js e icon.svg a la raíz del repositorio GitHub Pages.
+Correcciones: porciones orientativas, seguimiento digestivo/metabólico, instrucciones de fuerza, programación de fuerza por día real (lunes/jueves; luego lunes/miércoles/viernes), 30 minutos de bicicleta lunes a viernes, meditación diaria.
+Importante: exporta respaldo JSON desde la versión anterior antes de reemplazarla. Los registros permanecen en el navegador si mantienes la misma URL y origen.
+No sustituye evaluación clínica o nutricional.
